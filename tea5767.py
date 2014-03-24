@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Author:	Nathan Baker
+Modified by J.Heyman, March 2014.
+Original Author: Nathan Baker
 Date:	February 24th, 2013
 Name:	tea5767.py
 About:	python code for controlling TEA5767 FM radio module
